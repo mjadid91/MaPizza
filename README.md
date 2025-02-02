@@ -1,4 +1,3 @@
-Here is the updated `README.md` with additional details about the new features:
 
 # My Pizza
 

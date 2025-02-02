@@ -1,0 +1,51 @@
+.ingredient-div {
+    margin: 2rem auto;
+    max-width: 900px;
+    padding: 1rem;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    background-color: #ffffff;
+    height: 550px;
+    overflow: auto;
+}
+
+.ingredient-div table{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.ingredient-div th {
+    background-color:  rgb(211, 211, 211);
+    font-weight: 600;
+}
+
+.ingredient-div th,td {
+    border: solid 1px black;
+    width : 180px;
+    height : 35px;
+    
+}
+.ingredient-div th:nth-child(n+2),td:nth-child(n+3) {
+    border: solid 1px black;
+    width : 80px;
+    height : 35px;
+    
+}
+
+
+.ingredient-div tr {
+    text-align: center;
+    background-color:  rgb(245, 245, 245);
+}
+
+.valid{
+    width: 55%;
+}
+
+.validButton {
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}

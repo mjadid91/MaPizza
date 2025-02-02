@@ -1,0 +1,75 @@
+form {
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 500px;
+    margin: 50px auto;
+    border: 1px solid #ced4da;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: #fff;
+}
+
+form div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+label {
+    margin-bottom: 5px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"],
+input[type="email"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#bouton {
+    display: flex;
+    justify-content: center;
+}
+
+#bouton input[type="submit"] {
+    width: auto;
+    padding: 10px 20px;
+    font-size: 1em;
+    color: white;
+    background-color: #0062c2;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#bouton input[type="submit"]:hover {
+    background-color: #40c7c7;
+}
+
+
+input[type="number"] {
+    width: 100%;
+}
+
+form a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #0a67b7;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+form a:hover {
+    color: #3fb6b6;
+}

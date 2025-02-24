@@ -31,13 +31,6 @@ Réalisation d'un site web pour une pizzeria.
 3. Configurez votre serveur web et base de données selon les besoins de votre environnement.
 
 ## Utilisation
-1. Ouvrez le fichier `index.html` dans votre navigateur pour accéder à la page d'accueil.
+1. Ouvrez le fichier `index.php` dans votre navigateur pour accéder à la page d'accueil.
 2. Naviguez à travers les différentes pages pour explorer les fonctionnalités du site.
 
-## Contribution
-Les contributions sont les bienvenues ! Veuillez suivre les étapes suivantes pour contribuer :
-1. Fork le dépôt
-2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Committez vos modifications (`git commit -m 'Add some AmazingFeature'`)
-4. Poussez vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrez une Pull Request

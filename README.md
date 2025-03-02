@@ -22,11 +22,11 @@ Réalisation d'un site web pour une pizzeria.
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/mjadid91/myPizza.git
+   git clone https://github.com/mjadid91/MaPizza.git
    ```
 2. Accédez au répertoire du projet :
    ```bash
-   cd myPizza
+   cd MaPizza
    ```
 3. Configurez votre serveur web et base de données selon les besoins de votre environnement.
 
